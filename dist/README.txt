@@ -1,0 +1,1 @@
+The current version uses a CSS-generated book cover, so no image asset is required.
